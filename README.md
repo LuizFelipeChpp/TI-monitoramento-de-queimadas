@@ -40,14 +40,13 @@ Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentrali
 
   Matriz CSD:
 
-  Certezas: 
-
+    Certezas: 
     •As queimadas acontecem com frequencia nas areas periurbanas
     •A fumaça e o fogo geram riscos ambientais se à saúde da população
     •Muitas ocorrências são indentificadas tarde ou apenas após denúncias da população
     •A defesa civil e o corpo de bombeiros são responsáveis por atender essas ocorrências
 
-  Suposições:
+    Suposições:
     •Parte das queimadas pode ser causada por queima de lixo, limpeza de terrenos ou ação humana
     •A população pode não saber como ou onde denunciar rapidamente um foco de incêndio
     •Condições climáticas como tempo seco e altas temperaturas aumentam a probabilidade de queimadas
