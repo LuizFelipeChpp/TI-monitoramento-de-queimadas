@@ -97,7 +97,8 @@ Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentrali
 
 4. Product Design
 
-○ História de usuários:
+    ○ História de usuários:
+    
     Rafael Silva: Como bombeiro quero que as denúncias de queimadas sejam mais otimizadas porque eu quero ajudar as pessoas mais rápido de uma forma mais eficiente.
 
     Renata Soares: Como vítima da área afeteda pelas queimadas, quero que o serviço ajude a resolver o problema mais rápido para que as pessoas, animais, flora sofram o mínimo possível.
