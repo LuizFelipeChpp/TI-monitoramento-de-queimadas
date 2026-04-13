@@ -19,6 +19,7 @@
 A documentação do projeto é estruturada da seguinte forma:
 
 2. Contexto:
+
 O aumento das queimadas no Brasil tem se tornado um problema recorrente, causando impactos ambientais, sociais e econômicos. A falta de monitoramento eficiente dificulta a identificação rápida de focos de incêndio, atrasando ações de combate e prevenção.
 Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentralizados e denúncias da população, o que torna o processo lento e pouco eficiente
 
@@ -36,8 +37,11 @@ Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentrali
   O sistema é voltado principalmente para pessoas como Bombeiros, Gestores Público para tomarem a melhor decisão sobre a situação e a população local afetada pelos incendios
 
 3. Product Discovery
+
   Matriz CSD:
+
   Certezas: 
+
     •As queimadas acontecem com frequencia nas areas periurbanas
     •A fumaça e o fogo geram riscos ambientais se à saúde da população
     •Muitas ocorrências são indentificadas tarde ou apenas após denúncias da população
@@ -66,6 +70,7 @@ Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentrali
 ○ Pesquisa e entendimento do problema: A análise do problema mostra que a falta de centralização das informações dificulta ações rápidas de profissionais no combate as queimadas. Além disso, diferentes usuários possuem necessidades específicas que não são atendidas pelos sistemas atuais, como por exemplo as pessoas que moram perto de regiões de queimadas, onde muitas vezes tem que sair do lugar que moram para não correrem riscos maiores
 
 ○ Personas:
+
     •Persona 1:  
     Nome: Rafael Silva.
     Idade:37 anos
