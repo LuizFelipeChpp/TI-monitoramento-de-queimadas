@@ -102,17 +102,17 @@ Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentrali
 
 ○ Proposta de Valor:
 
-    •Proposta de valor Rafael Silva:
+    Proposta de valor Rafael Silva:
 
-[Proposta de valor Rafael Silva](imgs/PropostaValorRafaelSilva.png)
+![Proposta de valor Rafael Silva](imgs/PropostaValorRafaelSilva.png)
 
-    •Proposta de valor Renata Soares:
+    Proposta de valor Renata Soares:
 
-[Proposta de valor Renata Soares](imgs/PropostaValorRenata.png)
+![Proposta de valor Renata Soares](imgs/PropostaValorRenata.png)
 
-    •Proposta de valor Cléber Ramos:
+    Proposta de valor Cléber Ramos:
 
-[Proposta de valor Cléber Ramos](imgs/PropostaValorCleber.png)
+![Proposta de valor Cléber Ramos](imgs/PropostaValorCleber.png)
 
 
 
