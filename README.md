@@ -35,7 +35,7 @@ Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentrali
 ○ Público alvo:
   O sistema é voltado principalmente para pessoas como Bombeiros, Gestores Público para tomarem a melhor decisão sobre a situação e a população local afetada pelos incendios
 
-○ Processo de Product Discovery:
+3. Product Discovery
   Matriz CSD:
   Certezas: 
     •As queimadas acontecem com frequencia nas areas periurbanas
@@ -91,7 +91,7 @@ Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentrali
     Sonhos: Reduzir drasticamente o desmatamento e a degradação ambiental.
 
 
-3. Product Discovery
+4. Product Design
 
 ○ História de usuários:
     Rafael Silva: Como bombeiro quero que as denúncias de queimadas sejam mais otimizadas porque eu quero ajudar as pessoas mais rápido de uma forma mais eficiente.
@@ -114,9 +114,13 @@ Proposta de valor Cléber Ramos:
 
 ![Proposta de valor Cléber Ramos](imgs/PropostaValorCleber.png)
 
+○ Projeto De Interface: 
+
+  
 
 
-4. Product Design
+
+
 5. Metodologia
 6. Solução
 7. Referências Bibliográficas
