@@ -4,7 +4,7 @@
 
 • Projeto: A falta de monitoramento das queimadas
 
-• Repositório GitHub: ![text](https://github.com/LuizFelipeChpp/TI-monitoramento-de-queimadas.git)
+• Repositório GitHub: [REPOSITÓRIO](https://github.com/LuizFelipeChpp/TI-monitoramento-de-queimadas.git)
 
 • Membros da equipe:
 
