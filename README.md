@@ -121,11 +121,40 @@ Proposta de valor Cléber Ramos:
 
 ○ Projeto De Interface: 
 
-  
-
-
-
 
 5. Metodologia
+
+○ Ferramentas:
+
+   Editor de código: Visual Studio Code
+
+   ferramentas de comunicação: Usamos o WhatsApp para comunicação rápida entre os membros da equipe e o Discord utilizado para reuniões e discussões mais detalhadas, permitindo chamadas de voz e compartilhamento de tela.
+
+   ferramentas de diagramação: Usamos o Canva para a criação dos slides e apresentação do projeto, permitindo um design visual organizado e atrativo. Também usamos o miro para a elaboração de diagramas e organização das ideias do sistema, como a definição do objetivo do grupo, matriz CSD, personas, mapa de valor, entre outros.
+
+  
+○ Organização da equipe e divisão de papeis:
+
+A equipe se organizou de forma colaborativa, dividindo as tarefas de acordo com as habilidades de cada integrante.
+Cada membro ficou responsável por uma parte do projeto, como:
+Pesquisa sobre queimadas e levantamento de informações;
+Desenvolvimento da ideia da solução;
+Criação dos slides e apresentação;
+Organização do conteúdo escrito;
+A comunicação foi feita principalmente por meio do WhatsApp, permitindo alinhamento rápido entre os integrantes.
+As decisões foram tomadas em conjunto, garantindo que todos participassem do desenvolvimento do trabalho.
+
+○ Quadro de controle de tarefas: 
+
+Para o acompanhamento das atividades, o grupo utilizou uma organização simples das tarefas:
+A fazer: tarefas ainda não iniciadas;
+Em andamento: tarefas sendo realizadas;
+Concluído: tarefas já finalizadas;
+Essa divisão ajudou a equipe a manter o controle do progresso e cumprir os prazos estabelecidos.
+
 6. Solução
-7. Referências Bibliográficas
+
+A proposta de solução consiste em um ecossistema de monitoramento em tempo real, desenvolvido para atacar diretamente o déficit de 70% de cobertura que o Brasil enfrenta hoje no setor. O objetivo central é converter dados complexos em inteligência acionável tanto para a população quanto para as autoridades locais. Ao observarmos o dashboard, notamos que o sistema centraliza o controle de focos ativos e o mapeamento de áreas afetadas em quilômetros quadrados, permitindo uma análise geoespacial precisa. 
+
+7. Referências Bibliográficas: [Referências](https://www.camara.leg.br/noticias/701725-ministerio-publico-aponta-falta-de-acao-do-governo-federal-em-relacao-a-queimadas/) 
+[Referência 2](https://terrabrasilis.dpi.inpe.br/queimadas/situacao-atual/situacao_atual/)
