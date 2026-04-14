@@ -132,6 +132,19 @@ Proposta de valor Cléber Ramos:
 
 ○ Projeto De Interface: 
 
+Fluxo de usuário:
+
+Imagem do site no PC:
+
+![ImagemDoProtótipoPC](imgs/ImagemProtótipoInterativo.png)
+
+imagem do site no MOBILE:
+
+![ImagemDoProtótipoMOBILE](imgs/ImagemProtótipoMOBILE.png)
+
+prototipo interativo: 
+[PROTÓTIPO INTERATIVO](https://www.figma.com/make/q87isGR7Dpwp405urpkaGp/Site-de-Monitoramento-de-Queimadas?p=f&t=UMZeeoxDF3inkgAC-0&fullscreen=1)
+
 
 5. Metodologia
 
@@ -165,9 +178,9 @@ Proposta de valor Cléber Ramos:
 
 6. Solução
 
+  Proposta de solução:
+
     A proposta de solução consiste em um ecossistema de monitoramento em tempo real, desenvolvido para atacar diretamente o déficit de 70% de cobertura que o Brasil enfrenta hoje no setor. O objetivo central é converter dados complexos em inteligência acionável tanto para a população quanto para as autoridades locais. Ao observarmos o dashboard, notamos que o sistema centraliza o controle de focos ativos e o mapeamento de áreas afetadas em quilômetros quadrados, permitindo uma análise geoespacial precisa. 
 
 7. Referências Bibliográficas: 
-[Referência 1](https://www.camara.leg.br/noticias/701725-ministerio-publico-aponta-falta-de-acao-do-governo-federal-em-relacao-a-queimadas/) 
-
-[Referência 2](https://terrabrasilis.dpi.inpe.br/queimadas/situacao-atual/situacao_atual/)
+[Referência 1](https://www.camara.leg.br/noticias/701725-ministerio-publico-aponta-falta-de-acao-do-governo-federal-em-relacao-a-queimadas/) [Referência 2](https://terrabrasilis.dpi.inpe.br/queimadas/situacao-atual/situacao_atual/)
