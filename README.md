@@ -8,7 +8,7 @@
 
 * Membros da equipe:
 
-  ○ Diego Ribeiro  
+  ○ Diego Ribeiro
 
   ○ Matheus Oliveira Costa Torres 
 
@@ -24,7 +24,9 @@
 
 A documentação do projeto é estruturada da seguinte forma:
 
-2. Contexto:
+2. Contexto: 
+
+  Contextualizando o problema:
 
     O aumento das queimadas no Brasil tem se tornado um problema recorrente, causando impactos ambientais, sociais e econômicos. A falta de monitoramento eficiente dificulta a identificação rápida de focos de incêndio, atrasando ações de combate e prevenção.
     Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentralizados e denúncias da população, o que torna o processo lento e pouco eficiente
@@ -79,7 +81,7 @@ A documentação do projeto é estruturada da seguinte forma:
 
 ○ Personas:
 
-   •Persona 1:  
+    •Persona 1:  
     Nome: Rafael Silva.
     Idade:37 anos
     Hobby: Ler livros
@@ -133,13 +135,13 @@ Proposta de valor Cléber Ramos:
 
 5. Metodologia
 
-○ Ferramentas:
+  ○ Ferramentas:
 
-   Editor de código: Visual Studio Code
+    Editor de código: Visual Studio Code
 
-   ferramentas de comunicação: Usamos o WhatsApp para comunicação rápida entre os membros da equipe e o Discord utilizado para reuniões e discussões mais detalhadas, permitindo chamadas de voz e compartilhamento de tela.
+    ferramentas de comunicação: Usamos o WhatsApp para comunicação rápida entre os membros da equipe e o Discord utilizado para reuniões e discussões mais detalhadas, permitindo chamadas de voz e compartilhamento de tela.
 
-   ferramentas de diagramação: Usamos o Canva para a criação dos slides e apresentação do projeto, permitindo um design visual organizado e atrativo. Também usamos o miro para a elaboração de diagramas e organização das ideias do sistema, como a definição do objetivo do grupo, matriz CSD, personas, mapa de valor, entre outros.
+    ferramentas de diagramação: Usamos o Canva para a criação dos slides e apresentação do projeto, permitindo um design visual organizado e atrativo. Também usamos o miro para a elaboração de diagramas e organização das ideias do sistema, como a definição do objetivo do grupo, matriz CSD, personas, mapa de valor, entre outros.
 
   
 ○ Organização da equipe e divisão de papeis:
