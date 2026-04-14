@@ -2,39 +2,45 @@
 
 1. Introdução
 
-• Projeto: A falta de monitoramento das queimadas
+* Projeto: A falta de monitoramento das queimadas
 
-• Repositório GitHub: [REPOSITÓRIO](https://github.com/LuizFelipeChpp/TI-monitoramento-de-queimadas.git)
+* Repositório GitHub: [REPOSITÓRIO](https://github.com/LuizFelipeChpp/TI-monitoramento-de-queimadas.git)
 
-• Membros da equipe:
+* Membros da equipe:
 
   ○ Diego Ribeiro  
+
   ○ Matheus Oliveira Costa Torres 
+
   ○ Luiz Felipe Pereira Guimarães  
+
   ○ Thales Caires Ferraz
+
   ○ Ygor Magalhães
+
   ○ Luiz Augusto Cipriani
+
   ○ Allan Cristian Rodrigues
 
 A documentação do projeto é estruturada da seguinte forma:
 
 2. Contexto:
 
-O aumento das queimadas no Brasil tem se tornado um problema recorrente, causando impactos ambientais, sociais e econômicos. A falta de monitoramento eficiente dificulta a identificação rápida de focos de incêndio, atrasando ações de combate e prevenção.
-Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentralizados e denúncias da população, o que torna o processo lento e pouco eficiente
+    O aumento das queimadas no Brasil tem se tornado um problema recorrente, causando impactos ambientais, sociais e econômicos. A falta de monitoramento eficiente dificulta a identificação rápida de focos de incêndio, atrasando ações de combate e prevenção.
+    Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentralizados e denúncias da população, o que torna o processo lento e pouco eficiente
 
-○ Problema: 
-  A principal dificuldade é a falta de um sistema centralizado e acessível para monitoramento de queimadas. Isso acaba gerando a demora de identificação dos focos de incêncio, falta de acesso rápido a informação, consequentemente causando dificuldades nas tomadas de decisão.
+    ○ Problema: 
+    A principal dificuldade é a falta de um sistema centralizado e acessível para monitoramento de queimadas. Isso acaba gerando a demora de identificação dos focos de incêncio, falta de acesso rápido a informação, consequentemente causando dificuldades nas tomadas de decisão.
 
-○ Objetivo do projeto: 
-  Desenvolver um software para auxiliar no monitoramento de queimadas. Com propostas para centralizar dados em uma unica plataforma, facilitar o acesso à informação e melhorar a visualização dos dados.
+    ○ Objetivo do projeto: 
+    Desenvolver um software para auxiliar no monitoramento de queimadas. Com propostas para centralizar   dados em uma unica plataforma, facilitar o acesso à informação e melhorar a visualização dos dados.
 
-○ Justificativa:
-  As queimadas impactam diretamente o meio ambiente, a sociedade e a economia. A dificuldade em monitorar e agir rapidamente agrava cada vez mais a situação.
-  O projeto busca utilizar a tecnologia para melhorar o acesso à informação e apoiar decisões mais rápidas e eficientes, contribuindo para minimizar os impactos causados pelas queimadas.
+    ○ Justificativa:
+    As queimadas impactam diretamente o meio ambiente, a sociedade e a economia. A dificuldade em monitorar e agir rapidamente agrava cada vez mais a situação.
+    O projeto busca utilizar a tecnologia para melhorar o acesso à informação e apoiar decisões mais rápidas e eficientes, contribuindo para minimizar os impactos causados pelas queimadas.
 
-○ Público alvo:
-  O sistema é voltado principalmente para pessoas como Bombeiros, Gestores Público para tomarem a melhor decisão sobre a situação e a população local afetada pelos incendios
+    ○ Público alvo:
+    O sistema é voltado principalmente para pessoas como Bombeiros, Gestores Público para tomarem a melhor decisão sobre a situação e a população local afetada pelos incendios
 
 3. Product Discovery
 
@@ -58,19 +64,22 @@ Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentrali
     •Como a população poderia participar do monitoramento ou denúncia?
 
 ○ Mapa Stakeholders:
-  Corpo de Bombeiros: responsáveis pelo combate direto às queimadas, necessitam de informações rápidas e precisas para agirem com eficiencia
+
+    Corpo de Bombeiros: responsáveis pelo combate direto às queimadas, necessitam de informações rápidas e precisas para agirem com eficiencia
    
-  Moradores das regiões afetadas : pode ser afetada pelas queimadas e podem também contribuir com denúncias e informações
+    Moradores das regiões afetadas : pode ser afetada pelas queimadas e podem também contribuir com denúncias e informações
 
-  Defesa civil: atuação em situações de emergência
+    Defesa civil: atuação em situações de emergência
 
-  Ministerio do meio ambiente: responsável por melhorias nas políticas ambientais
+    Ministerio do meio ambiente: responsável por melhorias nas políticas ambientais
 
-○ Pesquisa e entendimento do problema: A análise do problema mostra que a falta de centralização das informações dificulta ações rápidas de profissionais no combate as queimadas. Além disso, diferentes usuários possuem necessidades específicas que não são atendidas pelos sistemas atuais, como por exemplo as pessoas que moram perto de regiões de queimadas, onde muitas vezes tem que sair do lugar que moram para não correrem riscos maiores
+○ Pesquisa e entendimento do problema: 
+
+    A análise do problema mostra que a falta de centralização das informações dificulta ações rápidas de profissionais no combate as queimadas. Além disso, diferentes usuários possuem necessidades específicas que não são atendidas pelos sistemas atuais, como por exemplo as pessoas que moram perto de regiões de queimadas, onde muitas vezes tem que sair do lugar que moram para não correrem riscos maiores
 
 ○ Personas:
 
-    •Persona 1:  
+   •Persona 1:  
     Nome: Rafael Silva.
     Idade:37 anos
     Hobby: Ler livros
@@ -97,7 +106,7 @@ Atualmente, o acompanhamento dessas ocorrências depende de sistemas descentrali
 
 4. Product Design
 
-    ○ História de usuários:
+○ História de usuários:
     
     Rafael Silva: Como bombeiro quero que as denúncias de queimadas sejam mais otimizadas porque eu quero ajudar as pessoas mais rápido de uma forma mais eficiente.
 
@@ -135,26 +144,26 @@ Proposta de valor Cléber Ramos:
   
 ○ Organização da equipe e divisão de papeis:
 
-A equipe se organizou de forma colaborativa, dividindo as tarefas de acordo com as habilidades de cada integrante.
-Cada membro ficou responsável por uma parte do projeto, como:
-Pesquisa sobre queimadas e levantamento de informações;
-Desenvolvimento da ideia da solução;
-Criação dos slides e apresentação;
-Organização do conteúdo escrito;
-A comunicação foi feita principalmente por meio do WhatsApp, permitindo alinhamento rápido entre os integrantes.
-As decisões foram tomadas em conjunto, garantindo que todos participassem do desenvolvimento do trabalho.
+    A equipe se organizou de forma colaborativa, dividindo as tarefas de acordo com as habilidades de cada integrante.
+    Cada membro ficou responsável por uma parte do projeto, como:
+    Pesquisa sobre queimadas e levantamento de informações;
+    Desenvolvimento da ideia da solução;
+    Criação dos slides e apresentação;
+    Organização do conteúdo escrito;
+    A comunicação foi feita principalmente por meio do WhatsApp, permitindo alinhamento rápido entre os integrantes.
+    As decisões foram tomadas em conjunto, garantindo que todos participassem do desenvolvimento do trabalho.
 
 ○ Quadro de controle de tarefas: 
 
-Para o acompanhamento das atividades, o grupo utilizou uma organização simples das tarefas:
-A fazer: tarefas ainda não iniciadas;
-Em andamento: tarefas sendo realizadas;
-Concluído: tarefas já finalizadas;
-Essa divisão ajudou a equipe a manter o controle do progresso e cumprir os prazos estabelecidos.
+    Para o acompanhamento das atividades, o grupo utilizou uma organização simples das tarefas:
+    A fazer: tarefas ainda não iniciadas;
+    Em andamento: tarefas sendo realizadas;
+    Concluído: tarefas já finalizadas;
+    Essa divisão ajudou a equipe a manter o controle do progresso e cumprir os prazos estabelecidos.
 
 6. Solução
 
-A proposta de solução consiste em um ecossistema de monitoramento em tempo real, desenvolvido para atacar diretamente o déficit de 70% de cobertura que o Brasil enfrenta hoje no setor. O objetivo central é converter dados complexos em inteligência acionável tanto para a população quanto para as autoridades locais. Ao observarmos o dashboard, notamos que o sistema centraliza o controle de focos ativos e o mapeamento de áreas afetadas em quilômetros quadrados, permitindo uma análise geoespacial precisa. 
+    A proposta de solução consiste em um ecossistema de monitoramento em tempo real, desenvolvido para atacar diretamente o déficit de 70% de cobertura que o Brasil enfrenta hoje no setor. O objetivo central é converter dados complexos em inteligência acionável tanto para a população quanto para as autoridades locais. Ao observarmos o dashboard, notamos que o sistema centraliza o controle de focos ativos e o mapeamento de áreas afetadas em quilômetros quadrados, permitindo uma análise geoespacial precisa. 
 
 7. Referências Bibliográficas: [Referências](https://www.camara.leg.br/noticias/701725-ministerio-publico-aponta-falta-de-acao-do-governo-federal-em-relacao-a-queimadas/) 
 [Referência 2](https://terrabrasilis.dpi.inpe.br/queimadas/situacao-atual/situacao_atual/)
