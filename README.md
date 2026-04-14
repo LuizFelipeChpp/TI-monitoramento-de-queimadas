@@ -142,6 +142,12 @@ imagem do site no MOBILE:
 
 ![ImagemDoProtótipoMOBILE](imgs/ImagemProtótipoMOBILE.png)
 
+wireframe:
+
+Wireframe do prototipo:
+
+![WIREFRAME](imgs/WIREFRAMEprotitipo.png)
+
 prototipo interativo: 
 [PROTÓTIPO INTERATIVO](https://www.figma.com/make/q87isGR7Dpwp405urpkaGp/Site-de-Monitoramento-de-Queimadas?p=f&t=UMZeeoxDF3inkgAC-0&fullscreen=1)
 
