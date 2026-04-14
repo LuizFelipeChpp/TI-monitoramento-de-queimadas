@@ -181,7 +181,7 @@ Essaivisão ajudou a equipe a manter o controle do progresso e cumprir os prazos
 
 Proposta de solução:
 
-A proposta de solução consiste em um ecossistema de monitoramento em tempo real, desenvolvido para atacar diretamente o déficit d70% de cobertura que o Brasil enfrenta hoje no setor. O objetivo central é converter dados complexos em inteligência acionável tantpara a população quanto para as autoridades locais. Ao observarmos o dashboard, notamos que o sistema centraliza o controle de focoativos e o mapeamento de áreas afetadas em quilômetros quadrados, permitindo uma análise geoespacial precisa. 
+A proposta de solução consiste em um ecossistema de monitoramento em tempo real, desenvolvido para atacar diretamente o déficit de 70% de cobertura que o Brasil enfrenta hoje no setor. O objetivo central é converter dados complexos em inteligência acionável tantpara a população quanto para as autoridades locais. Ao observarmos o dashboard, notamos que o sistema centraliza o controle de focoativos e o mapeamento de áreas afetadas em quilômetros quadrados, permitindo uma análise geoespacial precisa. 
 
 7. Referências Bibliográficas: 
 [Referência 1](https://www.camara.leg.br/noticias/701725-ministerio-publico-aponta-falta-de-acao-do-governo-federal-em-relacao-a-queimadas/) [Referência 2](https://terrabrasilis.dpi.inpe.br/queimadas/situacao-atual/situacao_atual/)
